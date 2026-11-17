@@ -1,0 +1,6 @@
+{
+  "name": "KinoStream",
+  "description": "Web-based torrent, magnet, and mirror media streamer with resolution switching, playback speed control, offline downloads, and international subtitle support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
